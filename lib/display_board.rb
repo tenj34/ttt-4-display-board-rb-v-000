@@ -3,22 +3,15 @@
 # Empty board = [" "," "," "," "," "," "," "," "," "]
 # board with an x in the middle board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
-def board
-  2.times{
-    puts"   |   |   "
-    puts "-----------"
-  }
-  puts"   |   |   "
-end
 
 
 
 
 
 def display_board(board)
-  
-
-
-
-
+  2.times{
+    puts"   |   |   "
+    puts "-----------"
+  }
+  puts"   |   |   "
 end
